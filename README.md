@@ -4,7 +4,8 @@
 
 Hey Listen is a macOS menu bar app that shows full-screen reminders before your calendar events start. It detects meeting links, supports flexible snooze options, and gives you granular control over which events alert you and when.
 
-![Screenshot](screenshot.png)
+![Alert Screenshot](screenshot.png)
+![Settings Screenshot](settings.png)
 
 ## Support
 
