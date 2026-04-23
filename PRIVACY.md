@@ -1,14 +1,14 @@
-# Hey Listen - Privacy Policy
+# Hey Listen — Privacy Policy
 
-**Last updated:** February 4, 2026
+**Last updated:** April 23, 2026
 
 ## Overview
 
-Hey Listen is a macOS menu bar application that monitors your calendar events and displays full-screen reminders before events start. Your privacy is important to us.
-
-## Data Collection
+Hey Listen is a macOS menu bar application developed by **Arbitrary Studios, LLC, doing business as Arbitrary Bits** ("Arbitrary Bits," "we," "us," or "our"). Hey Listen monitors your calendar events and displays full-screen reminders before events start. Your privacy is important to us.
 
 **Hey Listen does not collect, transmit, or store any personal data outside of your device.**
+
+## Data Collection
 
 ### Calendar Data
 
@@ -19,6 +19,10 @@ Hey Listen accesses your macOS calendar data through Apple's EventKit framework 
 - Detect meeting links (Zoom, Microsoft Teams, Google Meet) in event details
 
 Calendar data is read in real time and is never copied, stored persistently, or transmitted to any server. When you close the app, no calendar data is retained.
+
+### Apple EventKit Framework
+
+Hey Listen's access to your calendar data is provided through Apple's EventKit framework and is governed by Apple's own privacy architecture. Access to your calendars requires your explicit permission via macOS's system-level Calendar permission prompt. You may grant or revoke this permission at any time in **System Settings → Privacy & Security → Calendars**. If permission is denied or revoked, Hey Listen will not be able to access your calendar data.
 
 ### User Preferences
 
@@ -36,7 +40,7 @@ These preferences never leave your device.
 
 ### Meeting Links
 
-When you click "Join Meeting" in an alert, Hey Listen opens the meeting URL in your default browser. Hey Listen itself does not connect to any meeting service or transmit any data.
+When you click "Join Meeting" in an alert, Hey Listen opens the meeting URL in your default browser or directly in the meeting app. Hey Listen itself does not connect to any meeting service or transmit any data.
 
 ## Third-Party Services
 
@@ -56,4 +60,8 @@ We may update this privacy policy from time to time. Changes will be reflected i
 
 ## Contact
 
-If you have questions about this privacy policy, please contact the developer at the support link provided on the App Store listing.
+If you have questions about this privacy policy, please contact us at [heylisten@arbitrarystudios.com](mailto:heylisten@arbitrarystudios.com).
+
+---
+
+*Copyright © 2026 Arbitrary Studios, LLC, doing business as Arbitrary Bits. All rights reserved.*
