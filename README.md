@@ -6,6 +6,23 @@ Hey Listen is a macOS menu bar app that shows full-screen reminders before your 
 
 ---
 
+## User Guide
+
+For detailed documentation, visit the **[Hey Listen User Guide](guide/README.md)**.
+
+| | |
+|---|---|
+| [Getting Started](guide/getting-started.md) | Install, connect calendars, and get your first alert |
+| [Alerts](guide/alerts.md) | Configure when and how alerts appear |
+| [Calendars](guide/calendars.md) | Choose which calendars to monitor |
+| [Menu Bar](guide/menu-bar.md) | Customize the menu bar label and event list |
+| [Snooze](guide/snooze.md) | Snooze options and how they work |
+| [Muting](guide/muting.md) | Silence alerts for specific events or title patterns |
+| [Filtering](guide/filtering.md) | Filter by RSVP status or work hours |
+| [Purchasing](guide/purchasing.md) | Free trial and one-time purchase |
+
+---
+
 ## Getting Started
 
 ### 1. Install and Launch
@@ -94,6 +111,8 @@ Hey Listen runs silently in the background. When a meeting is about to start, a 
 ---
 
 ## Support
+
+For detailed documentation, see the [User Guide](guide/README.md).
 
 If you need help, have a feature request, or want to report a bug, please [open an issue](../../issues/new).
 
